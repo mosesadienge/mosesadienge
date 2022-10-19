@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mosesadienge
-- 👀 I’m interested in python,Data science and machine learning
-- 🌱 I’m currently learning python
+- 👀 I’m interested in python,Data science and Web 3.0 development
+- 🌱 I’m currently learning python and Ruby
 - 💞️ I’m looking to collaborate on python projects
 - 📫 Reach me via mndiawo@gmail.com
 
