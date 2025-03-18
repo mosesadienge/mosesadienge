@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mosesadienge
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning Frontend technologies; HTML,CSS and Javascript.
+- 🌱 I’m currently learning Frontend.
 - 💞️ I’m looking to use my knolwedge to solve real world problems
 - 📫 Reach me via mndiawo@gmail.com
 
